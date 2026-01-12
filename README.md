@@ -1,0 +1,1 @@
+This repository documents my learning journey in Machine Learning, guided by a senior mentor. The focus of this project is to understand ML fundamentals by applying them to a real-world problem in a structured, step-by-step manner.
