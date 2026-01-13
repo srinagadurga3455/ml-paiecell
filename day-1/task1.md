@@ -1,4 +1,5 @@
-MACHHINE LEARNING
- training a model by providing some instructions on datasets to predict the 
+MACHHINE LEARNING :
+ Machine Learning  is a way of making computers learn from past data and experiences so they can make decisions or predictions on their own, without being given exact step-by-step instructions
 
- Machine Learning is when you stop babysitting computers with exact instructions and instead feed them data so they setting new instructions on their own.
+Simple idea :
+ More data → better learning → better results
